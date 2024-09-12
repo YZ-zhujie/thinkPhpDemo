@@ -3,7 +3,7 @@
 # docker
 1，cd 到docker文件下进入
 2，输入：docker-compose up -d
-3，docker ps ，检查容器是否在运行
+## 3，docker ps ，检查容器是否在运行
 
 # nginx
 1,找到本地到nginx.conf 文件 替换当前项目的 nginx.conf
